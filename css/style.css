@@ -1,8 +1,8 @@
 .main {
     background-image: url(/images/fon.png);
     margin: 0 113px;
-    height: 2300px;
-    width: 1140px;
+    height: 2070px;
+    width: 1366px;
     border: 1px solid springgreen;
 }
 .element {
@@ -19,4 +19,42 @@
     width: 527px;
     margin-left: 75px;
     text-align: left;
+}
+.ship {
+    border: 1px solid blueviolet;
+    height: 409px;
+    width: 1366px;
+    background-color: rgb(220, 215, 215);
+    opacity: .5;
+}
+.shipping {
+    display: flex;
+    justify-content: space-around;
+    /* text-align: center; */     
+}
+.ship h3 {
+    text-align: center;    
+}
+.icon {
+    border: 1x solid red;
+    height: 160px;
+    width: 242px;
+    text-align: center;
+    opacity: .9;  
+}
+.icon img {
+    width: 55px;
+    margin: 0 auto;
+}
+.fases {
+    text-align: center;
+}
+.fase {
+    display: flex;
+    justify-content: space-between;
+}
+.fase img {
+    height: 264px;
+    width: 264px;
+    margin: 37px 0px;
 }
