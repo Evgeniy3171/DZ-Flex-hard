@@ -21,11 +21,9 @@
     text-align: left;
 }
 .ship {
-    border: 1px solid blueviolet;
     height: 409px;
     width: 1366px;
-    background-color: rgb(220, 215, 215);
-    opacity: .5;
+    background: rgba(220, 215, 215, 0.6);
 }
 .shipping {
     display: flex;
@@ -40,7 +38,6 @@
     height: 160px;
     width: 242px;
     text-align: center;
-    opacity: .9;  
 }
 .icon img {
     width: 55px;
