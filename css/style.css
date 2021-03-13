@@ -3,8 +3,8 @@
     margin: 0 113px;
     height: 2070px;
     width: 1366px;
-    border: 1px solid springgreen;
-}
+/*     border: 1px solid springgreen;
+ */}
 .element {
     display: flex;
 }
@@ -13,7 +13,7 @@
     width: 404px;
 }
 .element div {
-    border: 1px solid brown;
+/*     border: 1px solid brown; */
 }
 .second {
     width: 527px;
@@ -34,7 +34,7 @@
     text-align: center;    
 }
 .icon {
-    border: 1x solid red;
+/*     border: 1x solid red; */
     height: 160px;
     width: 242px;
     text-align: center;
